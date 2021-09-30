@@ -1,0 +1,5 @@
+days=set(["mon","tue","wed","thu","fri","sat"])
+days.add("sun")
+print(days)
+days.discard("sun")
+print(days)
